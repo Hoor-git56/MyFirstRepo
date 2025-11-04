@@ -5,9 +5,9 @@ This is my first GitHub repository for the lab.
 This project was created as part of the Git & GitHub Lab.
 
 ## About
-- Created by: [Your Name]
-- Course: [Course Name]
-- Date: [Date]
+- Created by: [Hoor saleh]
+- Course: [IT205]
+- Date: [4November]
 
 ## Purpose
 To learn how to:
